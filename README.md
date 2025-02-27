@@ -7,5 +7,5 @@ python3 TDLsDiscover.py
 
 ```
 <center>
-<img src="https://github.com/TheLaughingCow/TDLsDiscover/edit/main/tdls.gif"/>
+<img src="https://github.com/TheLaughingCow/TDLsDiscover/blob/main/tdls.gif"/>
 </center>
