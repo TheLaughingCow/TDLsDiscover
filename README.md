@@ -1,8 +1,8 @@
-# TDLsDiscover
+# TLDsDiscover
 
 ## Example Usage 
 ```bash
-python3 TDLsDiscover.py
+python3 TLDsDiscover.py
 👉 Enter the target domain name (e.g., amazon): google
 
 ```
